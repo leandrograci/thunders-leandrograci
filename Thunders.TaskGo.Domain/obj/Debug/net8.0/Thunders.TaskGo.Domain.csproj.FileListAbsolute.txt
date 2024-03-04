@@ -1,0 +1,11 @@
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\bin\Debug\net8.0\Thunders.TaskGo.Domain.deps.json
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\bin\Debug\net8.0\Thunders.TaskGo.Domain.dll
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\bin\Debug\net8.0\Thunders.TaskGo.Domain.pdb
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\obj\Debug\net8.0\Thunders.TaskGo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\obj\Debug\net8.0\Thunders.TaskGo.Domain.AssemblyInfoInputs.cache
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\obj\Debug\net8.0\Thunders.TaskGo.Domain.AssemblyInfo.cs
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\obj\Debug\net8.0\Thunders.TaskGo.Domain.csproj.CoreCompileInputs.cache
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\obj\Debug\net8.0\Thunders.TaskGo.Domain.dll
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\obj\Debug\net8.0\refint\Thunders.TaskGo.Domain.dll
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\obj\Debug\net8.0\Thunders.TaskGo.Domain.pdb
+C:\Leandro\Thunders\Thunders.TaskGo.Domain\obj\Debug\net8.0\ref\Thunders.TaskGo.Domain.dll

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Thunders.TaskGo.Domain\Thunders.TaskGo.Domain.csproj" />
+    <ProjectReference Include="..\Thunders.TaskGo.Infra\Thunders.TaskGo.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

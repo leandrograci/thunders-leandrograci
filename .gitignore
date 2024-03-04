@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Thunders.TaskGo.API/bin/Debug/net8.0
+/Thunders.TaskGo.Domain/bin/Debug/net8.0
+/Thunders.TaskGo.Infra/bin/Debug/net8.0
+/Thunders.TaskGo.Service/bin/Debug/net8.0
+/.vs

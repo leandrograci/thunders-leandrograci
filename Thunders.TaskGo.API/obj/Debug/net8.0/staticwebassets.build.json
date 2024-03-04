@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kosDDkUEfFF9S6n7FcceupCpKBHIBM9EkgvHFDRhmdk=",
+  "Source": "Thunders.TaskGo.API",
+  "BasePath": "_content/Thunders.TaskGo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

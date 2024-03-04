@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Thunders.TaskGo.API.props" />
+</Project>

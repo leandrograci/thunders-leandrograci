@@ -1,0 +1,17 @@
+C:\Leandro\Thunders.TaskGo.Infra\bin\Debug\net8.0\Thunders.TaskGo.Infra.deps.json
+C:\Leandro\Thunders.TaskGo.Infra\bin\Debug\net8.0\Thunders.TaskGo.Infra.runtimeconfig.json
+C:\Leandro\Thunders.TaskGo.Infra\bin\Debug\net8.0\Thunders.TaskGo.Infra.dll
+C:\Leandro\Thunders.TaskGo.Infra\bin\Debug\net8.0\Thunders.TaskGo.Infra.pdb
+C:\Leandro\Thunders.TaskGo.Infra\bin\Debug\net8.0\Thunders.TaskGo.Domain.dll
+C:\Leandro\Thunders.TaskGo.Infra\bin\Debug\net8.0\Thunders.TaskGo.Domain.pdb
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\Thunders.TaskGo.Infra.csproj.AssemblyReference.cache
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\Thunders.TaskGo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\Thunders.TaskGo.Infra.AssemblyInfoInputs.cache
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\Thunders.TaskGo.Infra.AssemblyInfo.cs
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\Thunders.TaskGo.Infra.csproj.CoreCompileInputs.cache
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\Thunders.TaskGo.Infra.csproj.CopyComplete
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\Thunders.TaskGo.Infra.dll
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\refint\Thunders.TaskGo.Infra.dll
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\Thunders.TaskGo.Infra.pdb
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\Thunders.TaskGo.Infra.genruntimeconfig.cache
+C:\Leandro\Thunders.TaskGo.Infra\obj\Debug\net8.0\ref\Thunders.TaskGo.Infra.dll
