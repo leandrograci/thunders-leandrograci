@@ -5,12 +5,12 @@ Este é um projeto de backend que implementa um Sistema de Lista de Tarefas impl
 ## **Funcionalidades**
 * Cadastro de Usuário: Os usuários devem ser cadastrados com um código único, login, senha e status (ativo ou inativo).
 * Atualização de Informações de Usuários: É possível atualizar as informações de usuário, somente senha e status (ativo ou inativo).
-* Listagem de Usuários: O sistema oferece a funcionalidade de listar todos os usuário cadastrados, exibindo seus login e status. Deve também permitir uma consulta apenas por status.
+* Listagem de Usuários: O sistema oferece a funcionalidade de listar todos os usuário cadastrados, exibindo seus login e status.
 
-* * Cadastro de Tarefas: Os tarefas devem ser cadastrados com um código único, nome e relacionados a uma unidade específica. Toda tarefa deve ter um usuário relacionado.
-* Atualização de Informações de uma Tarefa: É possível atualizar as informações da tarefa, incluindo o nome e a unidade à qual estão associados.
-* Remoção de Tarefa: As tarefas podem ser removidos do sistema.
-* Listagem de Tarefas: O sistema oferece a funcionalidade de listar todas os tarefas cadastrados, exibindo seus códigos, nomes e unidades associadas.
+* * Cadastro de Tarefas: As tarefas devem ser cadastradas com um código único, nome e período. Toda tarefa deve ter um usuário relacionado.
+* Atualização de Informações de uma Tarefa: É possível atualizar as informações da tarefa.
+* Remoção de Tarefa: As tarefas podem ser removidas do sistema.
+* Listagem de Tarefas: O sistema oferece a funcionalidade de listar todas as tarefas cadastradas, exibindo seus códigos, nomes e demais informações.
 
 
 ## **Requisitos**
